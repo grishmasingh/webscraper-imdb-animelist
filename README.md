@@ -15,7 +15,7 @@ This Repository includes an excel spreadsheet(.xlsx) that contains the anime lis
 
 (the link will be at the bottom of this README file)
 
-**Why I created this project**
+<h3>Why I created this project</h3>
 
 I decided to create this project because not only am I am currently learning Python, but my friend was actually stuck in what to watch on a friday night so I decided - "Hey, Why not put my Python skills into a real-case use" :bulb:
 
