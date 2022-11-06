@@ -14,7 +14,7 @@ This Repository includes an excel spreadsheet **(.xlsx)** that contains the anim
 
  :name_badge: Anime Titles
 
- :calendar: Anime Release Date
+ :calendar: Anime Release Dates
 
  :star2: Anime IMDb ratings :star2:
 
