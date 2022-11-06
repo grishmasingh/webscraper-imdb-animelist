@@ -15,9 +15,11 @@ This is a Webscraping project using BeautifulSoup (Python Package) that covers t
 
 ![image](https://user-images.githubusercontent.com/117310733/200171609-2783b9c4-0f11-4323-b49f-f4f2466aff73.png)
 
-**To access the excel spreadsheet, please navigate to the text file of this repository which looks like this:** 
+**To access the excel spreadsheet, please navigate to the 'IMDB Anime Ratings SHEET.xlsx'file of this repository which looks like this:** 
 
-![image](https://user-images.githubusercontent.com/117310733/200171609-2783b9c4-0f11-4323-b49f-f4f2466aff73.png)
+![2sc](https://user-images.githubusercontent.com/117310733/200172045-28daade9-99b4-429e-adc2-f64d3561049d.PNG)
+
+
 
 <h2>Details</h2>
  
