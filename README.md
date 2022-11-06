@@ -23,8 +23,9 @@ To access the excel spreadsheet, please navigate to the **'IMDB Anime Ratings SH
 
 <h2>Details</h2>
  
+I decided to create this project because not only am I currently learning Python, but my friend was actually stuck on what to watch on a friday night so I decided - "Hey, Why not put my Python skills into a real-case use" :bulb:
  
-The excel spreadsheet **(.xlsx)** that contains the anime list which the data was parsed from using the Beautiful Soup package in the **scraper.py** that includes the code of grabbing the:
+The excel spreadsheet **(.xlsx)** contains the anime list which the data was parsed from using the Beautiful Soup package in the **scraper.py** that includes the code of grabbing the key contents such as:
 
  :trophy: Rankings
 
@@ -34,10 +35,8 @@ The excel spreadsheet **(.xlsx)** that contains the anime list which the data wa
 
  :star2: Anime IMDb Ratings :star2:
 
-
-I decided to create this project because not only am I currently learning Python, but my friend was actually stuck on what to watch on a friday night so I decided - "Hey, Why not put my Python skills into a real-case use" :bulb:
-
 <h2>Summary</h2>
+
 
 I really enjoyed creating this and learned alot from it although it was difficult in the start with all the syntaxes and Python-specific functions (due to transitioning from JavaScript), but after alot of researching and countless tutorials - I finally got an end result ! 
 
