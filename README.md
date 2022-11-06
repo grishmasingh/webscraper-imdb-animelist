@@ -1,7 +1,7 @@
 # Webscraping the IMDb Top-Rated Anime Series :rocket:
 
 
-<h3>ABOUT</h3>
+<h3>Project Overview</h3>
 
 
 Hello Everyone or shall I say Hello World to my fellow programmers  :technologist:
@@ -18,9 +18,6 @@ This Repository includes an excel spreadsheet(.xlsx) that contains the anime lis
 
  :star2: Anime IMDb ratings :star2:
 
-######(the link will be at the bottom of this README file)
-
-
 
 I decided to create this project because not only am I am currently learning Python, but my friend was actually stuck in what to watch on a friday night so I decided - "Hey, Why not put my Python skills into a real-case use" :bulb:
 
@@ -31,6 +28,5 @@ Nevertheless, I really did enjoy this project and I learned alot from it so I ho
 
 
 
-
-https://www.imdb.com/list/ls033398199/
+> Link to the IMDb Top-Rated Anime Series Page: https://www.imdb.com/list/ls033398199/
 
