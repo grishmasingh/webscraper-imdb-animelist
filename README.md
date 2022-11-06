@@ -10,12 +10,13 @@ This is a Webscraping project using BeautifulSoup (Python Package) that covers t
 
  <h2>Files</h2>
 
+
 **To access the scraper.py code for this project, please navigate to the code folder of this repository which looks like this:** 
 
 ![image](https://user-images.githubusercontent.com/117310733/200171609-2783b9c4-0f11-4323-b49f-f4f2466aff73.png)
 
-
-<h2>Details<h3>
+<h2>Details</h2>
+ 
  
 This Repository includes an excel spreadsheet **(.xlsx)** that contains the anime list which the data was parsed **scraper.py** which is in the code folder 
 that includes the code of grabbing the:
