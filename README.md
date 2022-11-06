@@ -10,13 +10,13 @@ This is a Webscraping project that covers the Top-Rated Anime Series (IMDb) whic
 
 This Repository includes an excel spreadsheet(.xlsx) that contains the anime list which the data was parsed from the webscraper.py that includes the code of grabbing the:
 
--Rankings
+-Rankings :trophy:
 
--Anime Name
+-Anime Name :name_badge:
 
--Anime Release Date
+-Anime Release Date 	:calendar:
 
--Anime IMDb ratings
+-Anime IMDb ratings :star2:
 
 (the link will be at the bottom of this README file)
 
