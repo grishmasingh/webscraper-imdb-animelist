@@ -16,7 +16,7 @@ This Repository includes an excel spreadsheet **(.xlsx)** that contains the anim
 
  :calendar: Anime Release Dates
 
- :star2: Anime IMDb ratings :star2:
+ :star2: Anime IMDb Ratings :star2:
 
 
 I decided to create this project because not only am I currently learning Python, but my friend was actually stuck on what to watch a friday night so I decided - "Hey, Why not put my Python skills into a real-case use" :bulb:
