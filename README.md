@@ -1,4 +1,4 @@
-# webscraper-imdb-animelist :rocket:
+# Webscraping the IMDb Top-rated Anime Series :rocket:
 
 
 <h3>ABOUT</h3>
