@@ -24,8 +24,7 @@ To access the excel spreadsheet, please navigate to the **'IMDB Anime Ratings SH
 <h2>Details</h2>
  
  
-This Repository includes an excel spreadsheet **(.xlsx)** that contains the anime list which the data was parsed **scraper.py** which is in the code folder 
-that includes the code of grabbing the:
+The excel spreadsheet **(.xlsx)** that contains the anime list which the data was parsed from using the Beautiful Soup package in the **scraper.py** that includes the code of grabbing the:
 
  :trophy: Rankings
 
