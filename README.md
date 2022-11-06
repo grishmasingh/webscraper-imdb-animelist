@@ -19,7 +19,7 @@ This Repository includes an excel spreadsheet **(.xlsx)** that contains the anim
  :star2: Anime IMDb ratings :star2:
 
 
-I decided to create this project because not only am I currently learning Python, but my friend was actually stuck in what to watch on a friday night so I decided - "Hey, Why not put my Python skills into a real-case use" :bulb:
+I decided to create this project because not only am I currently learning Python, but my friend was actually stuck on what to watch a friday night so I decided - "Hey, Why not put my Python skills into a real-case use" :bulb:
 
 I really enjoyed creating this and it was very difficult in the start with all the syntaxes and Python-specific functions (due to transitioning from JavaScript), but after alot of researching and countless tutorials , I finally got an end result ! 
 
