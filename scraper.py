@@ -17,10 +17,10 @@ try:
     soup = BeautifulSoup(source.text, 'html.parser')                                         #returns the html content of the webpage
     
     
-    animes = soup.find('div', class_="lister-list").find_all('div', class_="lister-item mode-detail")                 #tbody is extracted and finding all tr
+    animes = soup.find('div', class_="lister-list").find_all('div', class_="lister-item mode-detail")                 #div is the tag and class is the div class assigned
     # print(len(animes)) #60
 
-    for anime in animes:                         #iterate throught the one by one in the 50 list
+    for anime in animes:                         #iterate throught the one by one in the list of 60 animes
         
         name =  anime.find('h3', class_="lister-item-header").a.text                     #only in the tag a to find the title name and text
         # print(name)  #Bleach: Sennen Kessen-hen
