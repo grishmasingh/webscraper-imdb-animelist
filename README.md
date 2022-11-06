@@ -21,7 +21,7 @@ This Repository includes an excel spreadsheet **(.xlsx)** that contains the anim
 
 I decided to create this project because not only am I currently learning Python, but my friend was actually stuck on what to watch a friday night so I decided - "Hey, Why not put my Python skills into a real-case use" :bulb:
 
-I really enjoyed creating this and it was very difficult in the start with all the syntaxes and Python-specific functions (due to transitioning from JavaScript), but after alot of researching and countless tutorials , I finally got an end result ! 
+I really enjoyed creating this and it was very difficult in the start with all the syntaxes and Python-specific functions (due to transitioning from JavaScript), but after alot of researching and countless tutorials - I finally got an end result ! 
 
 Nevertheless, I really did enjoy this project and I learned alot from it so I hope whoever may use or see this, please feel free to use my code as I wrote comments to guide ! :open_hands:
 
