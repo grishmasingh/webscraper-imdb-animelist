@@ -6,7 +6,7 @@
 
 Hello Everyone or shall I say Hello World to my fellow programmers  :technologist:
 
-This is a Webscraping project using Python and the Beautiful Soup package that covers the Top-Rated Anime Series from the IMDb website (Link is in the bottom of this file labelled 'Additional Information and Links') which may be of use to those who enjoy watching them like myself or are finding somewhere to start!
+This is a Webscraping project using Python and the Beautiful Soup package that covers the Top-Rated Anime Series from the IMDb website which may be of use to those who enjoy watching them like myself or are finding somewhere to start!
 
  <h2>Files</h2>
 
