@@ -37,6 +37,8 @@ The excel spreadsheet **(.xlsx)** that contains the anime list which the data wa
 
 I decided to create this project because not only am I currently learning Python, but my friend was actually stuck on what to watch on a friday night so I decided - "Hey, Why not put my Python skills into a real-case use" :bulb:
 
+<h2>Summary</h2>
+
 I really enjoyed creating this and learned alot from it although it was difficult in the start with all the syntaxes and Python-specific functions (due to transitioning from JavaScript), but after alot of researching and countless tutorials - I finally got an end result ! 
 
 Nevertheless, I hope whoever may use and see this, please feel free to use my code as I wrote comments to guide ! :open_hands:
