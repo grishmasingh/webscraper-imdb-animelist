@@ -8,7 +8,7 @@ Hello Everyone or shall I say Hello World to my fellow programmers  :technologis
 
 This is a Webscraping project using BeautifulSoup (Python Package) that covers the Top-Rated Anime Series (IMDb) which may be of use to those who enjoy watching them like myself or are finding somewhere to start!
 
- <h3>Files</h3>
+ <h5>Files</h5>
 
 **To access the scraper.py code for this project, please navigate to the code folder of this repository which looks like this:** 
 
