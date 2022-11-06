@@ -28,5 +28,13 @@ Nevertheless, I really did enjoy this project and I learned alot from it so I ho
 
 
 
+
+
+
+
+
+
+
+
 > Link to the IMDb Top-Rated Anime Series Page: https://www.imdb.com/list/ls033398199/
 
