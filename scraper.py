@@ -44,3 +44,5 @@ except Exception as e:
     print(e)
 
 excel.save('IMDB Anime Ratings SHEET.xlsx') #saving the file
+
+#END OF PROJECT
