@@ -18,7 +18,7 @@ This Repository includes an excel spreadsheet(.xlsx) that contains the anime lis
 
  :star2: Anime IMDb ratings :star2:
 
-(the link will be at the bottom of this README file)
+>(the link will be at the bottom of this README file)
 
 
 
