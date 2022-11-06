@@ -1,7 +1,7 @@
 # webscraper-imdb-animelist :rocket:
 
 
-<h3>**ABOUT**</h3>
+<h3>ABOUT</h3>
 
 
 Hello Everyone or shall I say Hello World to my fellow programmers  :technologist:
