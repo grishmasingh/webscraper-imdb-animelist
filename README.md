@@ -1,7 +1,7 @@
 # Webscraping the IMDb Top-Rated Anime Series :rocket:
 
 
-<h3>Project Overview</h3>
+<h2>Project Overview</h2>
 
 
 Hello Everyone or shall I say Hello World to my fellow programmers  :technologist:
