@@ -15,6 +15,8 @@ This is a Webscraping project using BeautifulSoup (Python Package) that covers t
 ![image](https://user-images.githubusercontent.com/117310733/200171609-2783b9c4-0f11-4323-b49f-f4f2466aff73.png)
 
 
+<h2>Details<h3>
+ 
 This Repository includes an excel spreadsheet **(.xlsx)** that contains the anime list which the data was parsed **scraper.py** which is in the code folder 
 that includes the code of grabbing the:
 
