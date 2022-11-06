@@ -39,13 +39,7 @@ Nevertheless, I hope whoever may use and see this, please feel free to use my co
 
 
 
+<h2>Links</h2>
 
-
-
-
-
-
-
-
-> Link to the IMDb Top-Rated Anime Series Page: https://www.imdb.com/list/ls033398199/
+Link to the IMDb Top-Rated Anime Series Page: https://www.imdb.com/list/ls033398199/
 
