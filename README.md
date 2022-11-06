@@ -15,6 +15,10 @@ This is a Webscraping project using BeautifulSoup (Python Package) that covers t
 
 ![image](https://user-images.githubusercontent.com/117310733/200171609-2783b9c4-0f11-4323-b49f-f4f2466aff73.png)
 
+**To access the excel spreadsheet, please navigate to the text file of this repository which looks like this:** 
+
+![image](https://user-images.githubusercontent.com/117310733/200171609-2783b9c4-0f11-4323-b49f-f4f2466aff73.png)
+
 <h2>Details</h2>
  
  
