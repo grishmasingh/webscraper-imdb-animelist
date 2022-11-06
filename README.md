@@ -8,11 +8,12 @@ Hello Everyone or shall I say Hello World to my fellow programmers  :technologis
 
 This is a Webscraping project using BeautifulSoup (Python Package) that covers the Top-Rated Anime Series (IMDb) which may be of use to those who enjoy watching them like myself or are finding somewhere to start!
 
-This Repository includes an excel spreadsheet **(.xlsx)** that contains the anime list which the data was parsed **webscraper.py** which is in the code folder 
+To access the webscrapper.py code for this project, please navigate to the code folder of this repository which looks like this: 
 
 ![image](https://user-images.githubusercontent.com/117310733/200171609-2783b9c4-0f11-4323-b49f-f4f2466aff73.png)
 
 
+This Repository includes an excel spreadsheet **(.xlsx)** that contains the anime list which the data was parsed **webscraper.py** which is in the code folder 
 that includes the code of grabbing the:
 
  :trophy: Rankings
@@ -22,6 +23,10 @@ that includes the code of grabbing the:
  :calendar: Anime Release Dates
 
  :star2: Anime IMDb Ratings :star2:
+ 
+ 
+ 
+ >![image](https://user-images.githubusercontent.com/117310733/200171609-2783b9c4-0f11-4323-b49f-f4f2466aff73.png)
 
 
 I decided to create this project because not only am I currently learning Python, but my friend was actually stuck on what to watch on a friday night so I decided - "Hey, Why not put my Python skills into a real-case use" :bulb:
