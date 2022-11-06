@@ -45,7 +45,9 @@ Nevertheless, I hope whoever may use and see this, please feel free to use my co
 
 
 
-<h2>Links</h2>
+<h2>Additional Information and Links</h2>
+
+Python and Beautiful Soup Package was used in this project
 
 Link to the IMDb Top-Rated Anime Series Page: https://www.imdb.com/list/ls033398199/
 
