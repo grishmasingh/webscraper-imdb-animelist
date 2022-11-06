@@ -23,7 +23,7 @@ To access the excel spreadsheet, please navigate to the **'IMDB Anime Ratings SH
 
 <h2>Details</h2>
  
-I decided to create this project because not only am I currently learning Python, but I introduced my friends to Anime and they were not sure on where to start so I decided - "Hey, Why not put my Python skills into a real-case use" :bulb:
+I decided to create this project because not only am I currently learning Python, but I introduced my friends to Anime and they themselves were not sure on where to start so I decided - "Hey, Why not put my Python skills into a real-case use" :bulb:
  
 The excel spreadsheet **(.xlsx)** contains the anime list which the data was parsed from using the Beautiful Soup package in the **scraper.py** that includes the code of grabbing the key contents such as:
 
