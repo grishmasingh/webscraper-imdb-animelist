@@ -23,10 +23,6 @@ that includes the code of grabbing the:
  :calendar: Anime Release Dates
 
  :star2: Anime IMDb Ratings :star2:
- 
- 
- 
- >![image](https://user-images.githubusercontent.com/117310733/200171609-2783b9c4-0f11-4323-b49f-f4f2466aff73.png)
 
 
 I decided to create this project because not only am I currently learning Python, but my friend was actually stuck on what to watch on a friday night so I decided - "Hey, Why not put my Python skills into a real-case use" :bulb:
